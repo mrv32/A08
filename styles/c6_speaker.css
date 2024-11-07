@@ -12,7 +12,7 @@ body {
     width: 800px;
     margin: 0 auto;
     border: 3px solid #931420;
-    background-color: #fffded;
+    background-color: white;
 }
 a:focus, a:hover {
 	font-style: italic;
@@ -54,12 +54,12 @@ section {
 section h1 {
 	color: #800000;
 	font-size: 150%;
-	padding: .05em 0 0.05em 0;
+	padding: .5em 0 .05em 0;
 	margin: 0;
 }
 section h2 {
 	font-size: 120%;
-	padding: .05em 0 .25em 0;
+	padding: .5em 0 .25em 0;
 }
 section p {
 	padding-bottom: .5em;
@@ -88,7 +88,7 @@ article h3 {
 }
 article img {
 	float: right;
-	margin: .05em 0 1.5em 1em;
+	margin: .5em 0 1.5em 1em;
 	border: 1px solid black;
 }
 
